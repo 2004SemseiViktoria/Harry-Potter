@@ -1,0 +1,31 @@
+body{
+  background-color:rgb(173, 222, 241)
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 40%;
+  }
+  
+td, th {
+  border: 1px solid #080808;
+  text-align: left;
+  padding: 8px;
+  }
+  
+tr:nth-child(even) {
+  background-color: #08f8f8;
+  }
+p.a {
+  font-family: "Times New Roman", Times, serif;
+  }
+h2 {
+  background-color:aqua ;
+  text-align: center; 
+  }
+  h1{
+    background-color:Aqua;
+  }
+  p{
+    font-size: large;
+  }
