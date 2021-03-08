@@ -9,7 +9,7 @@ table {
   
 td, th {
   border: 1px solid #080808;
-  text-align: left;
+  text-align: center;
   padding: 8px;
   }
   
@@ -29,3 +29,45 @@ h2 {
   p{
     font-size: large;
   }
+  h3{
+    font-style: bold;
+    background-color: aqua;
+  }
+  ul, li {
+    font-size: large;
+  }
+  .rowling {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+  }
+  .konyv{
+    float: right;
+    margin-right: 350px ;
+    width: 200px;
+  }
+  .konyvsor{
+    margin-left: 350px;
+  }
+  .felso{
+    width: 500px;
+  }
+  .emberek{
+    width: 150px;
+  }
+ .dijatado{
+   width: 600px;
+ }
+ .hp2{
+   width: 1000px;
+ }
+ .terkep{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
+ .voldi{
+   width: 400px;
+   float: right;
+ }
