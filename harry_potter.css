@@ -66,8 +66,36 @@ h2 {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 500px;
+ }
+ .jobbra{
+   width: 250px;
+   float: right;
+   margin-left: 20px;
+  margin-right: 20px ;
+ }
+ .ballra{
+  width: 250px;
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px ;
+ }
+ .dance{
+  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
  }
  .voldi{
-   width: 400px;
-   float: right;
+  width: 200px;
+  float: right;
+  margin-left: 20px;
+  margin-right: 20px ;
+ }
+ .sip{
+  width: 250px;
+  float: right;
+  margin-left: 20px;
+  margin-right: 20px ;
+  margin-bottom: 40px;
  }
